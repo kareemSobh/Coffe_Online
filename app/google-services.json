@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253251765266",
+    "project_id": "coffeonline-fe35f",
+    "storage_bucket": "coffeonline-fe35f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253251765266:android:43b93857ad32e9358344cb",
+        "android_client_info": {
+          "package_name": "com.kareemsobh.coffe_online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU55nnwDpv3SBrt0vCNd7H24rAmqusgY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
